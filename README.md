@@ -2,10 +2,6 @@
  A FastAPI application that integrates with MangaReader for manga scraping. It provides endpoints for searching, retrieving manga info, and fetching pages, along with a genre list and latest manga updates
 
 
-# Manga Miner API
-
-This is a FastAPI-based web application for scraping manga information from various sources including Manganato, Mangareader, Mangapill, and Asurascans.
-
 ![mangaminer](https://github.com/user-attachments/assets/3954d9e8-e5e9-40d1-978c-094dd61f7a15)
 
 
