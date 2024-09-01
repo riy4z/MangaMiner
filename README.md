@@ -6,6 +6,9 @@
 
 This is a FastAPI-based web application for scraping manga information from various sources including Manganato, Mangareader, Mangapill, and Asurascans.
 
+![mangaminer](https://github.com/user-attachments/assets/3954d9e8-e5e9-40d1-978c-094dd61f7a15)
+
+
 ## Installation
 
 1. Clone the repository:
@@ -63,7 +66,6 @@ This is a FastAPI-based web application for scraping manga information from vari
 ## Responses
 
 ![image](https://github.com/user-attachments/assets/a627edcf-0225-4dab-8604-c6811e1d10b5)
-![image](https://github.com/user-attachments/assets/8752b9fb-ef8d-4952-a54f-aa1923bcce69)
 
 
 
